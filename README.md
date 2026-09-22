@@ -46,7 +46,7 @@ Power BI Desktop (Power Query, DAX measures, data modeling)
 - "Low chargers" and "low income" are defined as below the median state — a simplification
 - Correlational analysis on ~30 states; findings indicate association, not proof of causation
 ## Author
-[OMIKA TIWARI] — [LinkedIn] — [GitHub]
+Omika Tiwari — [LinkedIn](https://www.linkedin.com/in/omika-tiwari) — [GitHub](https://github.com/Akimo404)
 
-## Author
-[Your Name] — [LinkedIn] — [GitHub]
+
+
