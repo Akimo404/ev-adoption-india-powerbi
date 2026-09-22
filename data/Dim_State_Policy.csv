@@ -1,0 +1,36 @@
+State,Policy_Status,E2W_Incentive,E2W_Incentive_Detail,E2W_Incentive_Start,E2W_Incentive_Months_to_Mar2024,Any_Purchase_Incentive,Any_Incentive_Months_to_Mar2024,Other_Category_Incentive,Road_Tax_Waiver,Registration_Waiver,NSDP_PerCapita_2019_20_INR
+Uttar Pradesh,Policy with consumer incentives,Yes,15% of cost,2022-10-01,17,Yes,17,,Yes,Yes,65666
+Maharashtra,Policy with consumer incentives,Yes,"INR 5,000/kWh",2021-09-01,30,Yes,30,,Yes,Yes,196100
+Karnataka,"Policy, no consumer incentives",No,,,0,No,0,,No,No,222002
+Tamil Nadu,Policy with consumer incentives,Yes,"INR 10,000/kWh",2023-02-01,13,Yes,13,,Yes,Yes,206165
+Rajasthan,Policy with consumer incentives,Yes,"INR 2,000-10,000/kWh",2022-08-01,19,Yes,19,,No,No,115356
+Bihar,No policy listed by CEEW,No,,,0,No,0,,No,No,44230
+Delhi,Policy with consumer incentives,Yes,"INR 5,000/kWh",2020-08-01,43,Yes,43,,Yes,Yes,356151
+Gujarat,Policy with consumer incentives,Yes,"INR 10,000/kWh",2021-06-01,33,Yes,33,,No,No,212428
+Madhya Pradesh,"Policy, no consumer incentives",No,,,0,No,0,,No,No,103103
+Kerala,Policy with consumer incentives,No,,,0,Yes,60,e-3W 25% of cost (no e-2W purchase incentive; 3% interest subvention only),No,No,213041
+Assam,Policy with consumer incentives,Yes,"INR 10,000/kWh",2021-07-01,32,Yes,32,,Yes,Yes,90123
+Odisha,Policy with consumer incentives,Yes,15% of cost,2021-02-01,37,Yes,37,,Buses only,Buses only,103512
+Andhra Pradesh,"Policy, no consumer incentives",No,,,0,No,0,,No,No,169320
+Chhattisgarh,Policy with consumer incentives,Yes,10% of cost,2022-08-01,19,Yes,19,,No,Yes,105089
+Haryana,Policy with consumer incentives,No,,,0,Yes,20,e-4W 15% of cost (no e-2W purchase incentive),No,Partial (INR 200-500 fee),240507
+West Bengal,"Policy, no consumer incentives",No,,,0,No,0,,No,No,113163
+Punjab,No policy listed by CEEW,No,,,0,No,0,,No,No,154385
+Jharkhand,No policy listed by CEEW,No,,,0,No,0,,No,No,75016
+Uttarakhand,"Policy, no consumer incentives",No,,,0,No,0,,No,No,188441
+Jammu and Kashmir,No policy listed by CEEW,No,,,0,No,0,,No,No,101891
+Goa,Policy with consumer incentives,Yes,"INR 2,000-10,000/kWh",2021-12-01,27,Yes,27,,No,No,435949
+Tripura,No policy listed by CEEW,No,,,0,No,0,,No,No,121456
+Chandigarh,Policy with consumer incentives,Yes,"INR 3,000-5,000/kWh",2022-09-01,18,Yes,18,,No,No,328002
+Puducherry,No policy listed by CEEW,No,,,0,No,0,,No,No,217138
+Himachal Pradesh,No policy listed by CEEW,No,,,0,No,0,,No,No,185728
+Manipur,No policy listed by CEEW,No,,,0,No,0,,No,No,82437
+Meghalaya,Policy with consumer incentives,Yes,"INR 10,000/kWh",2021-04-01,35,Yes,35,,Yes,Yes,87653
+Mizoram,No policy listed by CEEW,No,,,0,No,0,,No,No,153902
+Dadra and Nagar Haveli and Daman and Diu,No policy listed by CEEW,No,,,0,No,0,,No,No,
+Andaman and Nicobar Islands,No policy listed by CEEW,No,,,0,No,0,,No,No,219653
+Ladakh,Policy with consumer incentives,Yes,10% of cost,2022-08-01,19,Yes,19,,No,No,
+Arunachal Pradesh,No policy listed by CEEW,No,,,0,No,0,,No,No,182240
+Nagaland,No policy listed by CEEW,No,,,0,No,0,,No,No,122759
+Lakshadweep,No policy listed by CEEW,No,,,0,No,0,,No,No,
+Sikkim,No policy listed by CEEW,No,,,0,No,0,,No,No,412627
